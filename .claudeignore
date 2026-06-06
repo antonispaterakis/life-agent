@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+*.db
+tasks.db
+credentials.json
+token.json

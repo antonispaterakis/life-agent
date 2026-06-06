@@ -1,0 +1,2 @@
+
+cd /mnt/c/Users/anton/Desktop/life-agent && .venv/bin/python main.py

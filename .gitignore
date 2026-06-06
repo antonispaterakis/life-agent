@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.db
+*.log
+__pycache__/
+*.pyc
+credentials.json
+token.json
+.venv/
+venv/
+.DS_Store
+*.exe
+.claude/
